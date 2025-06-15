@@ -1,8 +1,1 @@
-{
-  "token": "lowphyxqhz",
-  "user": [
-    {
-      "username": "kachiadmin",
-      "password": "kachi123"
-    }]
-}
+
